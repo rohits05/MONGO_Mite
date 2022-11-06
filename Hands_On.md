@@ -1,11 +1,5 @@
------ ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -----
-
-# 🔰 Download Links ~ 
-## --- Msi: https://www.mongodb.com/try/download/community 
-## --- Mongoshell: https://www.mongodb.com/try/download/shell
-## --- MongoDB ATLAS: https://www.mongodb.com/cloud/atlas
-
------ ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -----  ----<br> <br> <br>
+# Lets Dive Into!! 🤿 
+<hr> <br>
 
 
 # 🏄‍ MongoDB Commands for Database ~
