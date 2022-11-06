@@ -9,6 +9,18 @@
 
 <br>
 <a href="https://www.mongodb.com/" > 🫙 A developer data platform built on the leading modern database!  </a>
-<hr> <br>
 
+----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -----  ----
+
+### 🔰 Download Links ~ 
+
+> Msi: https://www.mongodb.com/try/download/community 
+<br>
+
+> Mongoshell: https://www.mongodb.com/try/download/shell
+<br>
+
+> MongoDB ATLAS: https://www.mongodb.com/cloud/atlas
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- -----  ---- <br>
 
